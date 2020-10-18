@@ -1,4 +1,4 @@
-﻿#include<bangtal.h>
+﻿#include<bangtal>
 #include<ctime>
 #include<iostream>
 
